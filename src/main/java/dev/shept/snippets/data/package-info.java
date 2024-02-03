@@ -1,4 +1,4 @@
 @NonNullApi
-package dev.shept.data;
+package dev.shept.snippets.data;
 
 import org.springframework.lang.NonNullApi;
